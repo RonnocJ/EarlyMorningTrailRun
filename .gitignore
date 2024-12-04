@@ -71,3 +71,12 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Early Morning Trail Run/Library/APIUpdater
+/Early Morning Trail Run/Library/Artifacts
+/Early Morning Trail Run/Library/Bee
+/Early Morning Trail Run/Library/BurstCache/JIT/3bdd6db5a07131c66b33f6f164023dfb.bundle.dSYM
+/Early Morning Trail Run/Library/BurstCache
+/Early Morning Trail Run/Library/PackageCache
+/Early Morning Trail Run/Library/ScriptAssemblies
+/Early Morning Trail Run/Library/Search
+/Early Morning Trail Run/Library/ShaderCache
