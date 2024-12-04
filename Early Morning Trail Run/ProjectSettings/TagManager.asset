@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Minimap
+  - Water
+  - UI
+  - Background
+  - Paths
+  - Objects
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1694201649
+    locked: 0
+  - name: Objects
+    uniqueID: 2615288625
+    locked: 0
+  - name: Player
+    uniqueID: 3327141795
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Minimap
+    uniqueID: 3963265933
+    locked: 0
+  m_RenderingLayers:
+  - Default
